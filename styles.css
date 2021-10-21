@@ -1,0 +1,19 @@
+/*******************************tag selector**************************/
+body { background-color:#B1E693;}
+        hr {background-color: #B1E693 ;
+            border-style: none;
+            border-top-style: dotted;
+            border-color: grey;
+            border-width: 10px;
+             width: 5%;}
+h1{color:#3DB2FF;}
+h3{color:#3DB2FF;}
+h2{color:#FF2442;}
+img:hover{background-color:#F9D5A7;}
+/****************************class selector****************************/
+.bacon{
+        background-color:red;
+      }
+.broccoli{background-color: red;}
+/****************************id selector*********************************/
+#yoyo{color: #F0A500;}
